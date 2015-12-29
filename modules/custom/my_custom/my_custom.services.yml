@@ -1,0 +1,3 @@
+services:
+    my_custom.my_custom_service:
+        class: Drupal\my_custom\MyCustomService

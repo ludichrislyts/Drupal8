@@ -1,0 +1,5 @@
+my_custom.my_custom:
+    title: MyCustom Link
+    description: "This is a my custom link"
+    parent: system.admin_structure
+    route_name: my_custom.my_custom

@@ -1,0 +1,7 @@
+my_custom.my_custom:
+    path: '/my_custom'
+    defaults:
+        _controller: '\Drupal\my_custom\Controller\MyCustomController::my_custom'
+        _title: 'My Custom'
+    requirements:
+        _permission: 'view comments, access content'
